@@ -24,4 +24,5 @@ The fields in Bike Rental Dataset.csv are:
 
 The following questions are addressewd as part of this project:-
 1.	Predict the total count of bikes rented during each hour for the week commencing on 24th December 2012 (dataset contains the predictions for the independent variables like weather, temperature, humidity, windspeed etc.)
+
 2.	Predict whether high demand will occur within 7 days 
